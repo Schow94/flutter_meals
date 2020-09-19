@@ -1,6 +1,10 @@
 # flutter_meals_app
 
-A new Flutter project.
+Flutter App to help choose what meals and assist in the cooking process by providing recipes
+
+![Screenshot_1599921896](https://user-images.githubusercontent.com/24352472/92998006-246f4880-f4cc-11ea-8fbb-b0d92d41b193.png)
+![Screenshot_1599921970](https://user-images.githubusercontent.com/24352472/92998005-233e1b80-f4cc-11ea-8ef2-a4363d60380f.png)
+![Screenshot_1599921980](https://user-images.githubusercontent.com/24352472/92998002-1f11fe00-f4cc-11ea-96f6-043713a068c3.png)
 
 ## Getting Started
 
